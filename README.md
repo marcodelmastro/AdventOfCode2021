@@ -4,3 +4,5 @@
 
 * [Day 2](Day02.ipynb). Part 1 with list comprehension. Part 2 quick and dirty with an explicit loop.
 
+* [Day 3](Day03.ipynb). `numpy` FTW, and some poor man bit manipulation (probably useless for Part 1, but I'm happy ai took this road for part 2!)
+
