@@ -6,3 +6,5 @@
 
 * [Day 3](Day03.ipynb). `numpy` FTW, and some poor man bit manipulation (probably useless for Part 1, but I'm happy ai took this road for part 2!)
 
+* [Day 4](Day04.ipynb). In principle easy, if only I did not get stuck on part one becouse I initially forgot to check both rows and column!
+
