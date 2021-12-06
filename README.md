@@ -9,3 +9,5 @@
 * [Day 4](Day04.ipynb). In principle easy, if only I did not get stuck on part one becouse I initially forgot to check both rows and column!
 
 * [Day 5](Day05.ipynb). Part 1 simple. Part 2 was obviously introducing diagonals, implementing them required a bit of care to preserve orientation.
+
+* [Day 6](Day06.ipynb). An exponential growth, I better keep track of that population composition!za
