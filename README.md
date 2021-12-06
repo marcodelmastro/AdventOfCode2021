@@ -10,4 +10,4 @@
 
 * [Day 5](Day05.ipynb). Part 1 simple. Part 2 was obviously introducing diagonals, implementing them required a bit of care to preserve orientation.
 
-* [Day 6](Day06.ipynb). An exponential growth, I better keep track of that population composition!za
+* [Day 6](Day06.ipynb). An exponential growth, I better keep track of that population composition!
