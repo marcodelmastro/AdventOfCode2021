@@ -12,4 +12,5 @@
 
 * [Day 6](Day06.ipynb). An exponential growth, I better keep track of that population composition!
 
-* [Day 7](Day07.ipynb)
+* [Day 7](Day07.ipynb). I'm sure there are more efficient ways to solve this, but one-liners are always nice!
+
