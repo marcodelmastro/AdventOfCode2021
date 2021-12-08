@@ -14,6 +14,8 @@
 
 * [Day 7](Day07.ipynb). I'm sure there are more efficient ways to solve this, but one-liners are always nice!
 
-* [Day 8](Day08.ipynb). Brute force for Part 2 using `itertools` permutations; there is probably a better way (e.g. exploiting the unique digits to reduce the search space) but I was in a hurry.
+* [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space.
 
+```python
 
+```
