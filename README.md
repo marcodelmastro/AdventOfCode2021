@@ -14,3 +14,6 @@
 
 * [Day 7](Day07.ipynb). I'm sure there are more efficient ways to solve this, but one-liners are always nice!
 
+* [Day 8](Day08.ipynb). Brute force for Part 2 using `itertools` permutations; there is probably a better way (e.g. exploiting the unique digits to reduce the search space) but I was in a hurry.
+
+
