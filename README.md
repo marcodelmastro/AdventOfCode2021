@@ -14,4 +14,6 @@
 
 * [Day 7](Day07.ipynb). I'm sure there are more efficient ways to solve this, but one-liners are always nice!
 
-* [ ] [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space; finally, coded a procedural solution that needs no search!
+* [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space; finally, coded two procedural solutions that needs no search: first build the wiring pattern (ugly), second directy map patterns to number values (cleaner, and using python `set`).
+
+
