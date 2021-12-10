@@ -17,3 +17,5 @@
 * [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space; finally, coded two procedural solutions that needs no search: first build the wiring pattern (ugly), second directy map patterns to number values (cleaner, and using python `set`).
 
 * [Day 9](Day09.ipynb). Recursive `floodfill` algorithm (learned in 2017 day 14!) to solve Part 2.
+
+* [Day 9](Day10.ipynb). Using a `deque` to store and pop open parentheses.
