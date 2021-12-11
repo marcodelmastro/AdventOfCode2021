@@ -18,4 +18,6 @@
 
 * [Day 9](Day09.ipynb). Recursive `floodfill` algorithm (learned in 2017 day 14!) to solve Part 2.
 
-* [Day 9](Day10.ipynb). Using a `list` like a stack to store and pop open parentheses.
+* [Day 10](Day10.ipynb). Using a `list` like a stack to store and pop open parentheses.
+
+* [Day 11](Day11.ipynb). First visualisation of a grid evolution.
