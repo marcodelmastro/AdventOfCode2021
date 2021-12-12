@@ -21,3 +21,5 @@
 * [Day 10](Day10.ipynb). Using a `list` like a stack to store and pop open parentheses.
 
 * [Day 11](Day11.ipynb). First visualisation of a grid evolution.
+
+* [Day 12](Day12.ipynb). First path-finding puzzle of the year, I was (almost) missing them! :-)
