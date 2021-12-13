@@ -23,3 +23,5 @@
 * [Day 11](Day11.ipynb). First visualisation of a grid evolution.
 
 * [Day 12](Day12.ipynb). First path-finding puzzle of the year, I was (almost) missing them! :-)
+
+* [Day 13](Day13.ipynb). Array broadcasting and `numpy` for folding and overlapping. A timid attempt to OCR the result ofr Part 2.
