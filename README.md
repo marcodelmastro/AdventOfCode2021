@@ -25,3 +25,11 @@
 * [Day 12](Day12.ipynb). First path-finding puzzle of the year, I was (almost) missing them! :-)
 
 * [Day 13](Day13.ipynb). Array broadcasting and `numpy` for folding and overlapping. A timid attempt to OCR the result ofr Part 2.
+
+* [Day 14](Day14.ipynb)
+   * Part 1: simple implementation with a `list`, and a more efficient one with a custom `LinkedList`
+   * Part 2: **TODO** Even the `LinkedList` implementaion explodes in size. I suspect I'll have to find repeating patterns in the polymer and evolve only one of them (as in a compressiona algorityhm?)
+
+```python
+
+```
