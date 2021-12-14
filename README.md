@@ -28,7 +28,7 @@
 
 * [Day 14](Day14.ipynb)
    * Part 1: simple implementation with a `list`, and a more efficient one with a custom `LinkedList`
-   * Part 2: **TODO** Even the `LinkedList` implementaion explodes in size. I suspect I'll have to find repeating patterns in the polymer and evolve only one of them (as in a compressiona algorityhm?)
+   * Part 2: similarly to Day 6, better keep track of the polymer and polymer pair frequencies instead of evolving the full string, since its lenght increases exponentially!
 
 ```python
 
