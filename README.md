@@ -29,6 +29,8 @@
 * [Day 14](Day14.ipynb)
    * Part 1: simple implementation with a `list`, and a more efficient one with a custom `LinkedList`
    * Part 2: similarly to Day 6, better keep track of the polymer and polymer pair frequencies instead of evolving the full string, since its lenght increases exponentially!
+   
+* [Day 15](Day15.ipynb): weigthed graph shortest path, soved either with `networkx` or my own implementation of the Dijkstra algorithm.
 
 ```python
 
