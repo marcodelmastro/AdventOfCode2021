@@ -32,6 +32,8 @@
    
 * [Day 15](Day15.ipynb): weigthed graph shortest path, soved either with `networkx` or my own implementation of the Dijkstra algorithm.
 
+* [Day 16](Day16.ipynb): bit manipulation and recursion!
+
 ```python
 
 ```
