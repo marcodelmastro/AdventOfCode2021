@@ -34,6 +34,11 @@
 
 * [Day 16](Day16.ipynb): bit manipulation and recursion!
 
+* [Day 17](Day17.ipynb): weird physics simulation, solved with brute force.
+
+
+
+
 ```python
 
 ```
