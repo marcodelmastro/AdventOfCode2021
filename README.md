@@ -37,7 +37,3 @@
 * [Day 17](Day17.ipynb): weird physics simulation, solved with brute force.
 
 * [Day 18](Day18.ipynb): a quite complex mixture of string manipulation and recursion. It took me quite some time to implement all operations and finish part 1, after that part 2 was trivial.
-
-```python
-
-```
