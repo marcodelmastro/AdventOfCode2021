@@ -4,9 +4,9 @@
 
 * [Day 2](Day02.ipynb). Part 1 with list comprehension. Part 2 quick and dirty with an explicit loop.
 
-* [Day 3](Day03.ipynb). `numpy` FTW, and some poor man bit manipulation (probably useless for Part 1, but I'm happy ai took this road for part 2!)
+* [Day 3](Day03.ipynb). `numpy` FTW, and some poor man bit manipulation (probably useless for Part 1, but I'm happy I took this road for part 2!)
 
-* [Day 4](Day04.ipynb). In principle easy, if only I did not get stuck on part one becouse I initially forgot to check both rows and column!
+* [Day 4](Day04.ipynb). In principle easy, if only I did not get stuck on part one because I initially forgot to check both rows and column!
 
 * [Day 5](Day05.ipynb). Part 1 simple. Part 2 was obviously introducing diagonals, implementing them required a bit of care to preserve orientation.
 
@@ -14,7 +14,7 @@
 
 * [Day 7](Day07.ipynb). I'm sure there are more efficient ways to solve this, but one-liners are always nice!
 
-* [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space; finally, coded two procedural solutions that needs no search: first build the wiring pattern (ugly), second directy map patterns to number values (cleaner, and using python `set`).
+* [Day 8](Day08.ipynb). Initially solved Part 2 with brute force by checking all possible wiring permutations; when i found a bit of time, implemented a smarter search exploiting segments of unique digits to dramatically reduce search space; finally, coded two procedural solutions that needs no search: first build the wiring pattern (ugly), second directly map patterns to number values (cleaner, and using python `set`).
 
 * [Day 9](Day09.ipynb). Recursive `floodfill` algorithm (learned in 2017 day 14!) to solve Part 2.
 
@@ -24,16 +24,20 @@
 
 * [Day 12](Day12.ipynb). First path-finding puzzle of the year, I was (almost) missing them! :-)
 
-* [Day 13](Day13.ipynb). Array broadcasting and `numpy` for folding and overlapping. A timid attempt to OCR the result ofr Part 2.
+* [Day 13](Day13.ipynb). Array broadcasting and `numpy` for folding and overlapping. A timid attempt to OCR the result for Part 2.
 
 * [Day 14](Day14.ipynb)
    * Part 1: simple implementation with a `list`, and a more efficient one with a custom `LinkedList`
    * Part 2: similarly to Day 6, better keep track of the polymer and polymer pair frequencies instead of evolving the full string, since its lenght increases exponentially!
    
-* [Day 15](Day15.ipynb): weigthed graph shortest path, soved either with `networkx` or my own implementation of the Dijkstra algorithm.
+* [Day 15](Day15.ipynb): weighted graph shortest path, solved either with `networkx` or my own implementation of the Dijkstra algorithm.
 
 * [Day 16](Day16.ipynb): bit manipulation and recursion!
 
 * [Day 17](Day17.ipynb): weird physics simulation, solved with brute force.
 
 * [Day 18](Day18.ipynb): a quite complex mixture of string manipulation and recursion. It took me quite some time to implement all operations and finish part 1, after that part 2 was trivial.
+
+* [Day 19](): **TODO**
+
+* [Day 18](Day20.ipynb): a game-of-life on an infinite plane with a spin. Honestly I sis not like very much the special rules that "flipped" status of all plane depending on the number of iterations. I noticed almost immediately noticing that the first bit of the algorithm vector (corresponding to a empty 9x9 cell) was set to 1, but I found the solution a bit of gimmick.
