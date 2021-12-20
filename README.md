@@ -40,4 +40,4 @@
 
 * [Day 19](): **TODO**
 
-* [Day 18](Day20.ipynb): a game-of-life on an infinite plane with a spin. Honestly I sis not like very much the special rules that "flipped" status of all plane depending on the number of iterations. I noticed almost immediately noticing that the first bit of the algorithm vector (corresponding to a empty 9x9 cell) was set to 1, but I found the solution a bit of gimmick.
+* [Day 18](Day20.ipynb): a game-of-life on an infinite plane with a spin. Honestly I did not like today puzzle very much, the rules in the full input  that "flipped" the status of all plane looked a bit like a gimmick... 
