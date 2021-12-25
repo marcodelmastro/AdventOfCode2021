@@ -42,4 +42,14 @@
 
 * [Day 20](Day20.ipynb): a game-of-life on an infinite plane with a spin. Honestly I did not like today puzzle very much, the rules in the full input  that "flipped" the status of all plane looked a bit like a gimmick... 
 
-* [Day 21](Day21.ipynb): Part 1 trivial, Part 2 can be solved with recursion but caching with `lru_cache` is needed not to explose runtime.
+* [Day 21](Day21.ipynb): Part 1 trivial, Part 2 can be solved with recursion but caching with `lru_cache` is needed not to explode runtime.
+
+* [Day 22](): **TODO**
+
+* Day 23:
+   * Part 1: solved by hand!
+   * Part 2: **TODO**
+
+* [Day 24](): **TODO**
+
+* [Day 25](Day25.ipynb): simple list manipulation, but a local copy of previous state was necessary to evolve all elements simultaneously!
