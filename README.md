@@ -38,7 +38,7 @@
 
 * [Day 18](Day18.ipynb): a quite complex mixture of string manipulation and recursion. It took me quite some time to implement all operations and finish part 1, after that part 2 was trivial.
 
-* [Day 19](): **TODO**
+* [Day 19](Day19.ipynb): Tridimensional geometry treated as matrix algebra.
 
 * [Day 20](Day20.ipynb): a game-of-life on an infinite plane with a spin. Honestly I did not like today puzzle very much, the rules in the full input  that "flipped" the status of all plane looked a bit like a gimmick... 
 
