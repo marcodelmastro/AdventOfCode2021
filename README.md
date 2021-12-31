@@ -50,8 +50,6 @@
 
 * Day 23: Solved by hand with pen, paper and [LEGO blocks](./visualisation/day23part2.gif), using an [Excel spreasheet](Day23.xlsx) to keep track of movements and sum costs.
 
-![Day 23 with LEGOs](./visualisation/day23part2.gif "Day 23 with LEGOs")
-
 <p align="center">
   <img src="./visualisation/day23part2.gif" />
 </p>
