@@ -44,11 +44,11 @@
 
 * [Day 21](Day21.ipynb): Part 1 trivial, Part 2 can be solved with recursion but caching with `lru_cache` is needed not to explode runtime.
 
-* [Day 22](): **TODO**
-
-* Day 23:
-   * Part 1: solved by hand!
+* [Day 22](Day22.ipynb):
+   * Part 1: quick and dorty solution, that obviously cannot work for part 1 (the "large coordinated" cubes were a clear giveaway!)
    * Part 2: **TODO**
+
+* Day 23: Solved by hand with pen, paper and [LEGO blocks](./visualisation/day23part2.gif), using an [Excel spreasheet](Day23.xlsx) to keep track of movements and sum costs.
 
 * [Day 24](Day24.ipynb): Toughest day of the year, it took me many days to work out a solution. After the fact I read on the subreddit one could have simplified even more the computation by _really_ understanding what each instruction block was doing. I am already quite happy with the approach I found (tracking the repetitive `z` register states to significantly reduce the search space, back-navigating the register state tree to build the solution), that BTW allows to find solution of Part 2 for free instantaneously.
 
