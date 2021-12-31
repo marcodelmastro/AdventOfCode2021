@@ -50,11 +50,11 @@
 
 * Day 23: Solved by hand with pen, paper and [LEGO blocks](./visualisation/day23part2.gif), using an [Excel spreasheet](Day23.xlsx) to keep track of movements and sum costs.
 
-<div style="text-align: center;">
-
 ![Day 23 with LEGOs](./visualisation/day23part2.gif "Day 23 with LEGOs")
 
-</div>
+<p align="center">
+  <img src="./visualisation/day23part2.gif" />
+</p>
 
 * [Day 24](Day24.ipynb): Toughest day of the year, it took me many days to work out a solution. After the fact I read on the subreddit one could have simplified even more the computation by _really_ understanding what each instruction block was doing. I am already quite happy with the approach I found (tracking the repetitive `z` register states to significantly reduce the search space, back-navigating the register state tree to build the solution), that BTW allows to find solution of Part 2 for free instantaneously.
 
