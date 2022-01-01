@@ -46,7 +46,7 @@
 
 * [Day 22](Day22.ipynb):
    * Part 1: quick and dorty solution, that obviously cannot work for part 1 (the "large coordinated" cubes were a clear giveaway!)
-   * Part 2: **TODO**
+   * Part 2: full-fledged `Cube` class with an `difference` function that compute difference between cuboids and retun is a list of cuboids.
 
 * Day 23: Solved by hand with pen, paper and [LEGO blocks](./visualisation/day23part2.gif), using an [Excel spreasheet](Day23.xlsx) to keep track of movements and sum costs.
 
